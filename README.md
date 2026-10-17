@@ -8,13 +8,13 @@ Sou Pedro Pogogelski. Apenas mais um aluno de engenharia perdendo cada vez mais 
     <a href="https://github.com/Pogogelski?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Pogogelski?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/ens-pedropogogelski?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/Pogogelski?tab=followers">
         <img 
             alt="Seguidores" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Pogogelski?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/ens-pedropogogelski?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white"
         />
     </a>
 </p>
